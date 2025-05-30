@@ -43,7 +43,7 @@ Ejecuta el Jupyter Notebook `oral_diseases_training.ipynb` para:
 ## Resultados  
 - **Accuracy en validación**: ~95% (mejorable con más datos o épocas).  
 - **Pérdida**:  
-  ![Accuracy Plot](https://github.com/Kevin-Medina/OralMind-ML/blob/main/training_and_validation_accuracy_plot.png)  
+  ![Accuracy Plot](https://github.com/Kevin-Med1na/OralMind-ML/blob/main/training_and_validation_accuracy_plot.png)  
 
 ## Licencia  
 [MIT](https://opensource.org/licenses/MIT)  
