@@ -1,0 +1,3 @@
+dataset = https://drive.google.com/drive/folders/1wn_2yPfMXkDX-rvxFwQxuEGLBqnLPMN4?usp=sharing
+
+fuente = https://www.kaggle.com/datasets/salmansajid05/oral-diseases
